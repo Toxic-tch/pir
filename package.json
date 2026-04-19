@@ -1,0 +1,17 @@
+{
+  "name": "toxic-yobby-pair-1",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.21",
+    "react": "^18",
+    "react-dom": "^18",
+    "mrxd-baileys": "github:XdKing2/mrxd-baileys",
+    "pino": "^10.3.1"
+  }
+}

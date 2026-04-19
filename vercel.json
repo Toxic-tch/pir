@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "app/api/pair/route.js": {
+      "maxDuration": 60
+    },
+    "app/api/status/route.js": {
+      "maxDuration": 10
+    }
+  }
+}
